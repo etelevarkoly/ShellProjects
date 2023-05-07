@@ -1,2 +1,2 @@
-# BashProjects
-Bash project assignments
+# ShellProjects
+Shell scripts - project assignments
