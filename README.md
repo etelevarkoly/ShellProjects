@@ -1,0 +1,2 @@
+# BashProjects
+Bash project assignments
